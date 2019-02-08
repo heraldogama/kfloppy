@@ -35,7 +35,7 @@
 #include "floppy.h"
 
 static const char description[] =
-	I18N_NOOP("KDE Floppy Disk Utility");
+	I18N_NOOP("KDE Floppy Disk Utility - Demo");
 
 int main( int argc, char *argv[] )
 {
